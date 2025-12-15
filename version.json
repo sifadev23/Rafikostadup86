@@ -1,23 +1,21 @@
 {
-  "latestVersion": "1.0.0",
-  "releaseDate": "2025-12-10",
-  "downloadUrl": "https://github.com/sifadev23/Rafikostadup86/releases/download/1.0.0/Rafikostad.x86.exe",
+  "latestVersion": "1.0.1",
+  "releaseDate": "2025-12-15",
+  "downloadUrl": "https://github.com/sifadev23/Rafikostadup86/releases/download/1.0.1/Rafikostad.x86.exe",
   "changelog": {
     "ar": [
-      "إصلاح مشكلة في طباعة التقارير",
+      "تحسينات في طباعة التقارير",
       "تحسينات في الأداء",
-      "إضافة ميزة النسخ الاحتياطي التلقائي",
       "إصلاح أخطاء بسيطة"
     ],
     "en": [
       "Fixed report printing issue",
       "Performance improvements",
-      "Added automatic backup feature",
       "Minor bug fixes"
     ]
   },
   "isRequired": false,
-  "minimumVersion": "1.0.0",
+  "minimumVersion": "1.0.1",
   "releaseNotes": "هذا إصدار تحديثي يحتوي على تحسينات وإصلاحات مهمة",
   "fileSize": "25.5 MB",
   "checksumMD5": "d41d8cd98f00b204e9800998ecf8427e"
