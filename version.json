@@ -9,9 +9,9 @@
       "إصلاح أخطاء بسيطة"
     ],
     "en": [
-     "Fixed report printing issue",
-      "Add French and English",
-      "Minor bug fixes"
+   "Adding Arabic and English languages to printing the grading book",
+"Importing scores from Excel digitization",
+"Fixing minor bugs"
     ]
   },
   "isRequired": true,
